@@ -1,0 +1,7 @@
+{
+  "name": "CheckMaster Auto",
+  "description": "A smart vehicle checklist tool with AI-powered OCR for license plates and device information.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
